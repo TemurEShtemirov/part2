@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Roboto:wght@300;400;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#ul {
+    margin-left: 900px;
+}
+
+#li {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #25468A;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+#main {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #E9F5FF 100%), rgba(19, 145, 206, 0.7);
+}
+
+#h1_section1col1row1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    padding-top: 200px;
+    color: #25468A;
+}
+
+#p_section1col1row1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #3B4A6B;
+}
+
+#img_section1col2row {
+    padding-left: 193px;
+    padding-top: 70px;
+}
+
+#h2col1_1section1row2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #333333;
+    padding-left: 30px;
+}
+
+#a_dowload1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #1391CE;
+    padding-left: 55px;
+}
+
+#a_dowload2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #1391CE;
+    padding-left: 25px;
+}
+
+#col1_1section1row2 {
+    width: 352px;
+    height: 338px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 15px rgba(31, 100, 133, 0.1), 0px 4px 6px rgba(0, 0, 0, 0.05);
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+#windows {
+    padding-left: 110px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#col1_2section1row2 {
+    width: 352px;
+    height: 338px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 15px rgba(31, 100, 133, 0.1), 0px 4px 6px rgba(0, 0, 0, 0.05);
+    margin-left: 32px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+#mac {
+    padding-left: 110px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#a_dowload1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #1391CE;
+    padding-left: 55px;
+}
+
+#h1section3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 121.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #1391CE;
+    padding-left: 510px;
+    padding-top: 130px;
+}
+
+#linesection3 {
+    padding-left: 580px;
+}
+
+#p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 122.3%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    padding-left: 280px;
+    padding-top: 35px;
+}
+
+#h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #1391CE;
+}
+
+#p2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 134.3%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+}
+#col1nearfooter{
+    margin-left: 160px;
+}
+footer{
+    width:100%;
+ height: 200px;
+
+
+background: #1391CE;
+}
+.footerimg{
+    padding-top: 100px;
+}
